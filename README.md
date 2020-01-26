@@ -1,2 +1,3 @@
 # README
--This file is for 
+-This file is for mental health analysis
+- Mostly EDA done
